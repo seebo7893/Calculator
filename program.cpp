@@ -5,7 +5,8 @@ int main(){
 
    double num1, num2, num3;
 
-    
+    //Taking input from user
+   
     cout << "Enter three numbers: ";
     cin >> num1 >> num2 >> num3;
 
@@ -19,6 +20,7 @@ int main(){
         maxNum = num3;
     }
 
+   // For Ouput
     
     cout << "The maximum number is: " << maxNum << endl;
 
