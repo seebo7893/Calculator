@@ -2,6 +2,7 @@
 using namespace std;
 
 int main(){
+   //declaring variables
 
    double num1, num2, num3;
 
